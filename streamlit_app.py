@@ -61,7 +61,8 @@ gdp_df = get_gdp_data()
 
 # -----------------------------------------------------------------------------
 # Draw the actual page
-
+st.title("Welcome to the GDP Analysis App!")
+st.caption("This is a demonstration of Streamlit's capabilities.")
 # Set the title that appears at the top of the page.
 '''
 # :earth_americas: GDP dashboard
